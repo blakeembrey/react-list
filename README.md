@@ -1,5 +1,7 @@
 # react-list
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/react-list.svg)](https://greenkeeper.io/)
+
 A versatile infinite scroll [React] component.
 
 ## Install
